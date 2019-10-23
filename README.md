@@ -1,2 +1,3 @@
-# adroitdextercompany.github.io
-Official site of Adoit &amp; Dexter Company
+# Official site of [Adroit &amp; Dexter Company](http://adroitdexter.com)
+
+#### Site In-Progress!
